@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm Przemek - front-end dev specializing in React.</br></br> So far, I've really enjoyed building with Gatsby. My latest commercial project was an E-commerce store with GraphQL, headless Wordpress+Woocommerce, Material-UI, styled-components and other technologies implemented into.</br>
-Check out <a href="https://jaglana.pl" target="_blank"><b>jaglana.pl</b></a> to find out exactly what I'd been doing for the last several months 🔥</br></br>
-I am currently polishing my Redux skills and can't wait to start learning TypeScript soon.
+I'm <b>Przemek</b> - a front-end dev specializing in React.</br></br> Check out <a href="https://jaglana.pl" target="_blank"><b>jaglana.pl</b></a> to find out what I'd been working on for the last several months 🔥</br></br>
+If you are curious, <b>jaglana.pl</b> is an e-commerce store built with <b>React</b> and <b>GatsbyJS</b>. It utilizes Woocommerce as a <b>headless CMS</b>. The communication with back-end layer is conducted through <b>GraphQL API</b> with <b>Apollo Client</b>. I used <b>Material-UI</b> and <b>styled-components</b> to create a simple and user-friendly UI.</br>
+
+On this project I was responsible for <b>communication with client</b>, <b>requirements gathering</b>, graphic design, both <b>front-end and back-end implementation</b> and finally <b>hosting and deployment</b>.
+
 <!-- 
 **pwielgosik/pwielgosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
