@@ -6,6 +6,7 @@ On this project I was responsible for <b>communication with client</b>, <b>requi
 
 ### Tools I use
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="28px" height="28px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"  style="margin: 10px;"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="28px" height="28px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="28px" height="28px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="28px" height="28px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="28px" height="28px"></a>
@@ -17,7 +18,6 @@ On this project I was responsible for <b>communication with client</b>, <b>requi
 <a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/material-ui.svg" alt="Material UI" width="28px" height="28px"></a>
 
 ### I'm currently working on
-<a href="https://www.typescriptlang.org/" title="Typescript"  style="margin: 10px;"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="28px" height="28px"></a>
 <a href="https://redux.js.org/" title="Redux"  style="margin: 10px;"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="28px" height="28px"></a>
 
 <!-- 
